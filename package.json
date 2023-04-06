@@ -1,5 +1,5 @@
 {
-  "name": "react-digital-clock",
+  "name": "react-ist-digital-clock",
   "version": "1.0.0",
   "description": "Test repo to publish react component in npm library",
   "main": "index.js",
@@ -21,7 +21,6 @@
   "bugs": {
     "url": "https://github.com/surajsuman248/npm-publish-repo/issues"
   },
-  "homepage": "https://github.com/surajsuman248/npm-publish-repo#readme",
   "browserslist": [
     ">0.2%",
     "not dead",
