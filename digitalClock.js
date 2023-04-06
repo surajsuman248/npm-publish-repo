@@ -10,7 +10,10 @@ function DigitalClock() {
         setTime(currentTime);
     }
     return (
-        <h1>Date & Time: {time}</h1>
+        <div style={{ backgroundColor: "#2388B8" }}>
+            <h1>React Digital Clock</h1>
+            <h3>Date & Time: {time}</h3>
+        </div >
     )
 }
 
