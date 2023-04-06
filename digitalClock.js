@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-function Clock() {
+function DigitalClock() {
     setInterval(updateTime, 1000);
     let now = new Date().toLocaleString();
     const [time, setTime] = useState(now);
@@ -14,4 +14,4 @@ function Clock() {
     )
 }
 
-export default Clock;
+export default DigitalClock;
