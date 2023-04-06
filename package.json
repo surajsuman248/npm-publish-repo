@@ -1,6 +1,6 @@
 {
   "name": "react-ist-digital-clock",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Test repo to publish react component in npm library",
   "main": "digitalClock.js",
   "dependencies": {
@@ -26,5 +26,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
 }
