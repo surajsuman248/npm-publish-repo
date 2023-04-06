@@ -1,2 +1,2 @@
 react-ist-digital-clock
-A repo to publish react component in npm library
+A repo for reactjs IST date & time clock.
